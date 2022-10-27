@@ -1,0 +1,17 @@
+{
+  "name": "ASP.NET Core PWA",
+  "short_name": "ASP.NET PWA",
+  "description": "Demo PWA (Progressive Web App) app with ASP.NET Core",
+  "icons": [
+    {
+      "src": "/img/maskable_icon_x192.png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/img/maskable_icon_x512.png",
+      "sizes": "512x512"
+    }
+  ],
+  "display": "standalone",
+  "start_url": "/"
+}
